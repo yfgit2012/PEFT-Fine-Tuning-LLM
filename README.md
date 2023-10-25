@@ -20,13 +20,15 @@ LoRA - Low Rank Adaption - is to fine tune a foundation model that does not requ
 
 Fine tuning (Full weights vs LoRA) 
 
-![image](https://github.com/yfgit2012/PEFT-Fine-Tuning-LLM/assets/5380211/f0475d45-e4a9-4ff9-ac2c-535cac3b3cbf)
+![image](https://github.com/yfgit2012/PEFT-Fine-Tuning-LLM/blob/main/assets/dolly_3bloraft_1.png)
 
-![image](https://github.com/yfgit2012/PEFT-Fine-Tuning-LLM/assets/5380211/8da93e31-09d1-4b52-ab6e-a192ccf0cab2)
+![image](https://github.com/yfgit2012/PEFT-Fine-Tuning-LLM/blob/main/assets/dolly_3bloraft_2.png)
 
-![image](https://github.com/yfgit2012/PEFT-Fine-Tuning-LLM/assets/5380211/fada8491-2ba1-4637-af3d-e2cc28eec313)
+![image](https://github.com/yfgit2012/PEFT-Fine-Tuning-LLM/blob/main/assets/dolly_3bloraft_3.png)
 
-![image](https://github.com/yfgit2012/PEFT-Fine-Tuning-LLM/assets/5380211/6fb794f3-97d5-4888-b1f8-42c0d3dbdc59)
+![image](https://github.com/yfgit2012/PEFT-Fine-Tuning-LLM/blob/main/assets/dolly_3bloraft_4.png)
+
+
 
 Inference (Full weights vs LoRA) 
 
@@ -39,9 +41,9 @@ Inference (Full weights vs LoRA)
 
 ### Dolly 3B vs 7B vs 12B LoRA tuning
 
-![image](https://github.com/yfgit2012/PEFT-Fine-Tuning-LLM/assets/5380211/c54d6bf9-b258-498f-9018-7d0a44fceb35)
+![image](https://github.com/yfgit2012/PEFT-Fine-Tuning-LLM/blob/main/assets/dolly_3b7b12b_1.png)
 
-![image](https://github.com/yfgit2012/PEFT-Fine-Tuning-LLM/assets/5380211/f89d0de1-3c8f-47fb-b1b0-f4802984e5ea)
+![image](https://github.com/yfgit2012/PEFT-Fine-Tuning-LLM/blob/main/assets/dolly_3b7b12b_2.png)
 
 
 
