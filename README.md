@@ -16,9 +16,11 @@ LoRA - Low Rank Adaption - is to fine tune a foundation model that does not requ
 
 <img src="https://github.com/yfgit2012/PEFT-Fine-Tuning-LLM/assets/5380211/ee6572f2-c34c-4211-ae10-b5bf20e3947d" width=300>
 
-### Training process 
+### Dolly 3B 
 
-![image](https://github.com/yfgit2012/PEFT-Fine-Tuning-LLM/assets/5380211/f6e24acf-a84f-400f-bcea-3da38d5f4ee0)
+Fine tuning (Full weights vs LoRA) 
+
+![image](https://github.com/yfgit2012/PEFT-Fine-Tuning-LLM/assets/5380211/f0475d45-e4a9-4ff9-ac2c-535cac3b3cbf)
 
 ![image](https://github.com/yfgit2012/PEFT-Fine-Tuning-LLM/assets/5380211/8da93e31-09d1-4b52-ab6e-a192ccf0cab2)
 
@@ -26,7 +28,7 @@ LoRA - Low Rank Adaption - is to fine tune a foundation model that does not requ
 
 ![image](https://github.com/yfgit2012/PEFT-Fine-Tuning-LLM/assets/5380211/6fb794f3-97d5-4888-b1f8-42c0d3dbdc59)
 
-### Inference process 
+Inference (Full weights vs LoRA) 
 
 ![image](https://github.com/yfgit2012/PEFT-Fine-Tuning-LLM/assets/5380211/3ce20854-9742-4506-bf4b-6c09873129fb)
 
@@ -35,8 +37,11 @@ LoRA - Low Rank Adaption - is to fine tune a foundation model that does not requ
 ![image](https://github.com/yfgit2012/PEFT-Fine-Tuning-LLM/assets/5380211/fd10735d-6c4f-4c84-821d-f1e893d1a2bc)
 
 
+### Dolly 3B vs 7B vs 12B LoRA tuning
 
+![image](https://github.com/yfgit2012/PEFT-Fine-Tuning-LLM/assets/5380211/c54d6bf9-b258-498f-9018-7d0a44fceb35)
 
+![image](https://github.com/yfgit2012/PEFT-Fine-Tuning-LLM/assets/5380211/f89d0de1-3c8f-47fb-b1b0-f4802984e5ea)
 
 
 
